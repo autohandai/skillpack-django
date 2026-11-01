@@ -37,6 +37,4 @@ Written against Django 6.1 (with notes for 5.2 LTS) and pytest-django 4.14 as of
 
 Runs in Autohand Code (free CLI, any model): https://autohand.ai/cli/?utm_source=skillpack-django&utm_medium=github
 
-Until 31 October 2026: first month of Pro for $10 with code FOUNDING10 (first-time customers).
-
 MIT licensed. See LICENSE.
